@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hello_bg">#38bf6c</color>
+    <color name="title_bar_bg">#f9f9f9</color>
+    <color name="title_bar_font">#1dbd5b</color>
+    <color name="white">#ffffff</color>
+</resources>

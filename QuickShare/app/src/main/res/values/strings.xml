@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">快享</string>
+    <string name="title_activity_main">快享</string>
+    <string name="hello_world">你好!</string>
+    <string name="action_settings">设置</string>
+    <string name="start">开始</string>
+    <string name="title_activity_file_choose">请选择共享的文件</string>
 </resources>
